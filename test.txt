@@ -1,0 +1,2366 @@
+test
+
+101 51
+
+11 2
+
+98 47
+
+1998
+0 0 stone 0 0
+1 0 stone 0 0
+2 0 stone 0 0
+3 0 stone 0 0
+4 0 stone 0 0
+5 0 stone 0 0
+6 0 stone 0 0
+7 0 stone 0 0
+8 0 stone 0 0
+9 0 stone 0 0
+10 0 stone 0 0
+11 0 stone 0 0
+12 0 stone 0 0
+13 0 stone 0 0
+14 0 stone 0 0
+15 0 stone 0 0
+16 0 stone 0 0
+17 0 stone 0 0
+18 0 stone 0 0
+19 0 stone 0 0
+20 0 stone 0 0
+21 0 stone 0 0
+22 0 stone 0 0
+23 0 stone 0 0
+24 0 stone 0 0
+25 0 stone 0 0
+26 0 stone 0 0
+27 0 stone 0 0
+28 0 stone 0 0
+29 0 stone 0 0
+30 0 stone 0 0
+31 0 stone 0 0
+32 0 stone 0 0
+33 0 stone 0 0
+34 0 stone 0 0
+35 0 stone 0 0
+36 0 stone 0 0
+37 0 stone 0 0
+38 0 stone 0 0
+39 0 stone 0 0
+40 0 stone 0 0
+41 0 stone 0 0
+42 0 stone 0 0
+43 0 stone 0 0
+44 0 stone 0 0
+45 0 stone 0 0
+46 0 stone 0 0
+47 0 stone 0 0
+48 0 stone 0 0
+49 0 stone 0 0
+50 0 stone 0 0
+51 0 stone 0 0
+52 0 stone 0 0
+53 0 stone 0 0
+54 0 stone 0 0
+55 0 stone 0 0
+56 0 stone 0 0
+57 0 stone 0 0
+58 0 stone 0 0
+59 0 stone 0 0
+60 0 stone 0 0
+61 0 stone 0 0
+62 0 stone 0 0
+63 0 stone 0 0
+64 0 stone 0 0
+65 0 stone 0 0
+66 0 stone 0 0
+67 0 stone 0 0
+68 0 stone 0 0
+69 0 stone 0 0
+70 0 stone 0 0
+71 0 stone 0 0
+72 0 stone 0 0
+73 0 stone 0 0
+74 0 stone 0 0
+75 0 stone 0 0
+76 0 stone 0 0
+77 0 stone 0 0
+78 0 stone 0 0
+79 0 stone 0 0
+80 0 stone 0 0
+81 0 stone 0 0
+82 0 stone 0 0
+83 0 stone 0 0
+84 0 stone 0 0
+85 0 stone 0 0
+86 0 stone 0 0
+87 0 stone 0 0
+88 0 stone 0 0
+89 0 stone 0 0
+90 0 stone 0 0
+91 0 stone 0 0
+92 0 stone 0 0
+93 0 stone 0 0
+94 0 stone 0 0
+95 0 stone 0 0
+96 0 stone 0 0
+97 0 stone 0 0
+98 0 stone 0 0
+99 0 stone 0 0
+100 0 stone 0 0
+0 1 stone 0 0
+1 1 stone 0 0
+2 1 stone 0 0
+3 1 stone 0 0
+4 1 stone 0 0
+5 1 stone 0 0
+6 1 stone 0 0
+7 1 stone 0 0
+8 1 stone 0 0
+9 1 stone 0 0
+10 1 stone 0 0
+11 1 stone 0 0
+12 1 stone 0 0
+13 1 stone 0 0
+14 1 stone 0 0
+15 1 stone 0 0
+16 1 stone 0 0
+17 1 stone 0 0
+18 1 stone 0 0
+19 1 stone 0 0
+20 1 stone 0 0
+21 1 stone 0 0
+22 1 stone 0 0
+28 1 stone 0 0
+29 1 stone 0 0
+30 1 stone 0 0
+31 1 stone 0 0
+32 1 stone 0 0
+33 1 stone 0 0
+34 1 stone 0 0
+35 1 stone 0 0
+36 1 stone 0 0
+39 1 stone 0 0
+40 1 stone 0 0
+41 1 stone 0 0
+42 1 stone 0 0
+43 1 stone 0 0
+44 1 stone 0 0
+45 1 stone 0 0
+46 1 stone 0 0
+47 1 stone 0 0
+48 1 stone 0 0
+49 1 stone 0 0
+50 1 stone 0 0
+51 1 stone 0 0
+52 1 stone 0 0
+53 1 stone 0 0
+54 1 stone 0 0
+55 1 stone 0 0
+56 1 stone 0 0
+57 1 stone 0 0
+58 1 stone 0 0
+59 1 stone 0 0
+60 1 stone 0 0
+61 1 stone 0 0
+62 1 stone 0 0
+63 1 stone 0 0
+64 1 stone 0 0
+65 1 stone 0 0
+66 1 stone 0 0
+67 1 stone 0 0
+68 1 stone 0 0
+69 1 stone 0 0
+70 1 stone 0 0
+71 1 stone 0 0
+72 1 stone 0 0
+73 1 stone 0 0
+74 1 stone 0 0
+75 1 stone 0 0
+76 1 stone 0 0
+77 1 stone 0 0
+78 1 stone 0 0
+79 1 stone 0 0
+80 1 stone 0 0
+81 1 stone 0 0
+82 1 stone 0 0
+83 1 stone 0 0
+84 1 stone 0 0
+85 1 stone 0 0
+86 1 stone 0 0
+87 1 stone 0 0
+88 1 stone 0 0
+89 1 stone 0 0
+90 1 stone 0 0
+91 1 stone 0 0
+92 1 stone 0 0
+93 1 stone 0 0
+94 1 stone 0 0
+95 1 stone 0 0
+96 1 stone 0 0
+97 1 stone 0 0
+98 1 stone 0 0
+99 1 stone 0 0
+100 1 stone 0 0
+0 2 stone 0 0
+1 2 stone 0 0
+2 2 stone 0 0
+3 2 stone 0 0
+4 2 stone 0 0
+5 2 stone 0 0
+6 2 stone 0 0
+7 2 stone 0 0
+8 2 stone 0 0
+9 2 stone 0 0
+10 2 stone 0 0
+15 2 stone 0 0
+16 2 stone 0 0
+17 2 stone 0 0
+18 2 stone 0 0
+19 2 stone 0 0
+20 2 stone 0 0
+21 2 stone 0 0
+29 2 stone 0 0
+30 2 stone 0 0
+31 2 stone 0 0
+32 2 stone 0 0
+33 2 stone 0 0
+42 2 stone 0 0
+43 2 stone 0 0
+46 2 stone 0 0
+47 2 stone 0 0
+48 2 stone 0 0
+49 2 stone 0 0
+50 2 stone 0 0
+51 2 stone 0 0
+52 2 stone 0 0
+53 2 stone 0 0
+54 2 stone 0 0
+58 2 stone 0 0
+59 2 stone 0 0
+68 2 stone 0 0
+69 2 stone 0 0
+70 2 stone 0 0
+71 2 stone 0 0
+72 2 stone 0 0
+73 2 stone 0 0
+74 2 stone 0 0
+75 2 stone 0 0
+76 2 stone 0 0
+77 2 stone 0 0
+78 2 stone 0 0
+79 2 stone 0 0
+80 2 stone 0 0
+81 2 stone 0 0
+82 2 stone 0 0
+83 2 stone 0 0
+84 2 stone 0 0
+85 2 stone 0 0
+86 2 stone 0 0
+87 2 stone 0 0
+88 2 stone 0 0
+89 2 stone 0 0
+95 2 stone 0 0
+96 2 stone 0 0
+97 2 stone 0 0
+98 2 stone 0 0
+99 2 stone 0 0
+100 2 stone 0 0
+0 3 stone 0 0
+1 3 stone 0 0
+2 3 stone 0 0
+3 3 stone 0 0
+4 3 stone 0 0
+5 3 stone 0 0
+6 3 stone 0 0
+7 3 stone 0 0
+8 3 stone 0 0
+9 3 stone 0 0
+10 3 stone 0 0
+29 3 stone 0 0
+30 3 stone 0 0
+31 3 stone 0 0
+32 3 stone 0 0
+47 3 stone 0 0
+48 3 stone 0 0
+49 3 stone 0 0
+50 3 stone 0 0
+51 3 stone 0 0
+52 3 stone 0 0
+53 3 stone 0 0
+74 3 stone 0 0
+75 3 stone 0 0
+76 3 stone 0 0
+77 3 stone 0 0
+78 3 stone 0 0
+79 3 stone 0 0
+80 3 stone 0 0
+81 3 stone 0 0
+82 3 stone 0 0
+83 3 stone 0 0
+84 3 stone 0 0
+85 3 stone 0 0
+86 3 stone 0 0
+87 3 stone 0 0
+88 3 stone 0 0
+96 3 stone 0 0
+97 3 stone 0 0
+98 3 stone 0 0
+99 3 stone 0 0
+100 3 stone 0 0
+0 4 stone 0 0
+1 4 stone 0 0
+2 4 stone 0 0
+3 4 stone 0 0
+4 4 stone 0 0
+5 4 stone 0 0
+6 4 stone 0 0
+7 4 stone 0 0
+8 4 stone 0 0
+9 4 stone 0 0
+10 4 stone 0 0
+23 4 stone 0 0
+28 4 stone 0 0
+29 4 stone 0 0
+30 4 stone 0 0
+31 4 stone 0 0
+32 4 stone 0 0
+33 4 stone 0 0
+47 4 stone 0 0
+48 4 stone 0 0
+49 4 stone 0 0
+50 4 stone 0 0
+51 4 stone 0 0
+52 4 stone 0 0
+66 4 stone 0 0
+67 4 stone 0 0
+76 4 stone 0 0
+77 4 stone 0 0
+78 4 stone 0 0
+79 4 stone 0 0
+80 4 stone 0 0
+81 4 stone 0 0
+82 4 stone 0 0
+83 4 stone 0 0
+84 4 stone 0 0
+85 4 stone 0 0
+86 4 stone 0 0
+87 4 stone 0 0
+88 4 stone 0 0
+97 4 stone 0 0
+98 4 stone 0 0
+99 4 stone 0 0
+100 4 stone 0 0
+0 5 stone 0 0
+1 5 stone 0 0
+2 5 stone 0 0
+3 5 stone 0 0
+4 5 stone 0 0
+5 5 stone 0 0
+6 5 stone 0 0
+7 5 stone 0 0
+8 5 stone 0 0
+9 5 stone 0 0
+10 5 stone 0 0
+11 5 stone 0 0
+12 5 stone 0 0
+13 5 stone 0 0
+14 5 stone 0 0
+22 5 stone 0 0
+23 5 stone 0 0
+24 5 stone 0 0
+25 5 stone 0 0
+26 5 stone 0 0
+27 5 stone 0 0
+28 5 stone 0 0
+29 5 stone 0 0
+30 5 stone 0 0
+31 5 stone 0 0
+32 5 stone 0 0
+33 5 stone 0 0
+34 5 stone 0 0
+47 5 stone 0 0
+48 5 stone 0 0
+49 5 stone 0 0
+50 5 stone 0 0
+51 5 stone 0 0
+52 5 stone 0 0
+65 5 stone 0 0
+66 5 stone 0 0
+67 5 stone 0 0
+68 5 stone 0 0
+77 5 stone 0 0
+78 5 stone 0 0
+79 5 stone 0 0
+80 5 stone 0 0
+81 5 stone 0 0
+82 5 stone 0 0
+83 5 stone 0 0
+84 5 stone 0 0
+85 5 stone 0 0
+86 5 stone 0 0
+87 5 stone 0 0
+88 5 stone 0 0
+98 5 stone 0 0
+99 5 stone 0 0
+100 5 stone 0 0
+0 6 stone 0 0
+1 6 stone 0 0
+2 6 stone 0 0
+3 6 stone 0 0
+4 6 stone 0 0
+5 6 stone 0 0
+6 6 stone 0 0
+7 6 stone 0 0
+8 6 stone 0 0
+9 6 stone 0 0
+10 6 stone 0 0
+11 6 stone 0 0
+12 6 stone 0 0
+13 6 stone 0 0
+14 6 stone 0 0
+15 6 stone 0 0
+23 6 stone 0 0
+24 6 stone 0 0
+25 6 stone 0 0
+26 6 stone 0 0
+27 6 stone 0 0
+28 6 stone 0 0
+29 6 stone 0 0
+30 6 stone 0 0
+31 6 stone 0 0
+32 6 stone 0 0
+33 6 stone 0 0
+34 6 stone 0 0
+47 6 stone 0 0
+48 6 stone 0 0
+49 6 stone 0 0
+50 6 stone 0 0
+51 6 stone 0 0
+56 6 stone 0 0
+57 6 stone 0 0
+65 6 stone 0 0
+66 6 stone 0 0
+67 6 stone 0 0
+68 6 stone 0 0
+69 6 stone 0 0
+77 6 stone 0 0
+78 6 stone 0 0
+79 6 stone 0 0
+80 6 stone 0 0
+81 6 stone 0 0
+82 6 stone 0 0
+83 6 stone 0 0
+98 6 stone 0 0
+99 6 stone 0 0
+100 6 stone 0 0
+0 7 stone 0 0
+1 7 stone 0 0
+2 7 stone 0 0
+3 7 stone 0 0
+4 7 stone 0 0
+5 7 stone 0 0
+6 7 stone 0 0
+7 7 stone 0 0
+8 7 stone 0 0
+9 7 stone 0 0
+10 7 stone 0 0
+11 7 stone 0 0
+12 7 stone 0 0
+13 7 stone 0 0
+14 7 stone 0 0
+15 7 stone 0 0
+26 7 stone 0 0
+27 7 stone 0 0
+28 7 stone 0 0
+29 7 stone 0 0
+30 7 stone 0 0
+31 7 stone 0 0
+32 7 stone 0 0
+33 7 stone 0 0
+34 7 stone 0 0
+47 7 stone 0 0
+48 7 stone 0 0
+49 7 stone 0 0
+50 7 stone 0 0
+55 7 stone 0 0
+56 7 stone 0 0
+57 7 stone 0 0
+58 7 stone 0 0
+66 7 stone 0 0
+67 7 stone 0 0
+68 7 stone 0 0
+69 7 stone 0 0
+76 7 stone 0 0
+77 7 stone 0 0
+78 7 stone 0 0
+79 7 stone 0 0
+97 7 stone 0 0
+98 7 stone 0 0
+99 7 stone 0 0
+100 7 stone 0 0
+0 8 stone 0 0
+1 8 stone 0 0
+2 8 stone 0 0
+3 8 stone 0 0
+4 8 stone 0 0
+5 8 stone 0 0
+6 8 stone 0 0
+7 8 stone 0 0
+8 8 stone 0 0
+9 8 stone 0 0
+10 8 stone 0 0
+11 8 stone 0 0
+12 8 stone 0 0
+13 8 stone 0 0
+14 8 stone 0 0
+15 8 stone 0 0
+31 8 stone 0 0
+32 8 stone 0 0
+33 8 stone 0 0
+48 8 stone 0 0
+49 8 stone 0 0
+55 8 stone 0 0
+56 8 stone 0 0
+57 8 stone 0 0
+58 8 stone 0 0
+59 8 stone 0 0
+65 8 stone 0 0
+66 8 stone 0 0
+67 8 stone 0 0
+68 8 stone 0 0
+69 8 stone 0 0
+75 8 stone 0 0
+76 8 stone 0 0
+77 8 stone 0 0
+78 8 stone 0 0
+95 8 stone 0 0
+96 8 stone 0 0
+97 8 stone 0 0
+98 8 stone 0 0
+99 8 stone 0 0
+100 8 stone 0 0
+0 9 stone 0 0
+1 9 stone 0 0
+2 9 stone 0 0
+3 9 stone 0 0
+4 9 stone 0 0
+5 9 stone 0 0
+6 9 stone 0 0
+7 9 stone 0 0
+8 9 stone 0 0
+9 9 stone 0 0
+10 9 stone 0 0
+11 9 stone 0 0
+12 9 stone 0 0
+13 9 stone 0 0
+14 9 stone 0 0
+56 9 stone 0 0
+57 9 stone 0 0
+58 9 stone 0 0
+59 9 stone 0 0
+63 9 stone 0 0
+64 9 stone 0 0
+65 9 stone 0 0
+66 9 stone 0 0
+67 9 stone 0 0
+68 9 stone 0 0
+73 9 stone 0 0
+74 9 stone 0 0
+75 9 stone 0 0
+76 9 stone 0 0
+94 9 stone 0 0
+95 9 stone 0 0
+96 9 stone 0 0
+97 9 stone 0 0
+98 9 stone 0 0
+99 9 stone 0 0
+100 9 stone 0 0
+0 10 stone 0 0
+1 10 stone 0 0
+2 10 stone 0 0
+3 10 stone 0 0
+4 10 stone 0 0
+5 10 stone 0 0
+6 10 stone 0 0
+7 10 stone 0 0
+8 10 stone 0 0
+9 10 stone 0 0
+10 10 stone 0 0
+11 10 stone 0 0
+12 10 stone 0 0
+13 10 stone 0 0
+40 10 stone 0 0
+41 10 stone 0 0
+57 10 stone 0 0
+58 10 stone 0 0
+62 10 stone 0 0
+63 10 stone 0 0
+64 10 stone 0 0
+65 10 stone 0 0
+66 10 stone 0 0
+72 10 stone 0 0
+73 10 stone 0 0
+74 10 stone 0 0
+75 10 stone 0 0
+94 10 stone 0 0
+95 10 stone 0 0
+96 10 stone 0 0
+97 10 stone 0 0
+98 10 stone 0 0
+99 10 stone 0 0
+100 10 stone 0 0
+0 11 stone 0 0
+1 11 stone 0 0
+2 11 stone 0 0
+40 11 stone 0 0
+41 11 stone 0 0
+42 11 stone 0 0
+57 11 stone 0 0
+58 11 stone 0 0
+62 11 stone 0 0
+63 11 stone 0 0
+64 11 stone 0 0
+65 11 stone 0 0
+71 11 stone 0 0
+72 11 stone 0 0
+73 11 stone 0 0
+74 11 stone 0 0
+75 11 stone 0 0
+94 11 stone 0 0
+95 11 stone 0 0
+96 11 stone 0 0
+97 11 stone 0 0
+98 11 stone 0 0
+99 11 stone 0 0
+100 11 stone 0 0
+0 12 stone 0 0
+1 12 stone 0 0
+2 12 stone 0 0
+40 12 stone 0 0
+41 12 stone 0 0
+42 12 stone 0 0
+43 12 stone 0 0
+44 12 stone 0 0
+57 12 stone 0 0
+58 12 stone 0 0
+63 12 stone 0 0
+64 12 stone 0 0
+71 12 stone 0 0
+72 12 stone 0 0
+73 12 stone 0 0
+74 12 stone 0 0
+75 12 stone 0 0
+76 12 stone 0 0
+98 12 stone 0 0
+99 12 stone 0 0
+100 12 stone 0 0
+0 13 stone 0 0
+1 13 stone 0 0
+2 13 stone 0 0
+39 13 stone 0 0
+40 13 stone 0 0
+41 13 stone 0 0
+42 13 stone 0 0
+43 13 stone 0 0
+44 13 stone 0 0
+45 13 stone 0 0
+58 13 stone 0 0
+59 13 stone 0 0
+70 13 stone 0 0
+71 13 stone 0 0
+72 13 stone 0 0
+73 13 stone 0 0
+74 13 stone 0 0
+75 13 stone 0 0
+76 13 stone 0 0
+99 13 stone 0 0
+100 13 stone 0 0
+0 14 stone 0 0
+1 14 stone 0 0
+2 14 stone 0 0
+38 14 stone 0 0
+39 14 stone 0 0
+40 14 stone 0 0
+41 14 stone 0 0
+42 14 stone 0 0
+43 14 stone 0 0
+44 14 stone 0 0
+45 14 stone 0 0
+58 14 stone 0 0
+59 14 stone 0 0
+60 14 stone 0 0
+61 14 stone 0 0
+70 14 stone 0 0
+71 14 stone 0 0
+72 14 stone 0 0
+73 14 stone 0 0
+74 14 stone 0 0
+75 14 stone 0 0
+76 14 stone 0 0
+99 14 stone 0 0
+100 14 stone 0 0
+0 15 stone 0 0
+1 15 stone 0 0
+2 15 stone 0 0
+3 15 stone 0 0
+37 15 stone 0 0
+38 15 stone 0 0
+39 15 stone 0 0
+40 15 stone 0 0
+41 15 stone 0 0
+42 15 stone 0 0
+43 15 stone 0 0
+44 15 stone 0 0
+45 15 stone 0 0
+46 15 stone 0 0
+58 15 stone 0 0
+59 15 stone 0 0
+60 15 stone 0 0
+61 15 stone 0 0
+62 15 stone 0 0
+94 15 stone 0 0
+95 15 stone 0 0
+98 15 stone 0 0
+99 15 stone 0 0
+100 15 stone 0 0
+0 16 stone 0 0
+1 16 stone 0 0
+2 16 stone 0 0
+3 16 stone 0 0
+4 16 stone 0 0
+15 16 stone 0 0
+16 16 stone 0 0
+37 16 stone 0 0
+38 16 stone 0 0
+39 16 stone 0 0
+40 16 stone 0 0
+41 16 stone 0 0
+42 16 stone 0 0
+43 16 stone 0 0
+44 16 stone 0 0
+45 16 stone 0 0
+46 16 stone 0 0
+58 16 stone 0 0
+59 16 stone 0 0
+60 16 stone 0 0
+61 16 stone 0 0
+62 16 stone 0 0
+63 16 stone 0 0
+64 16 stone 0 0
+93 16 stone 0 0
+94 16 stone 0 0
+95 16 stone 0 0
+96 16 stone 0 0
+97 16 stone 0 0
+98 16 stone 0 0
+99 16 stone 0 0
+100 16 stone 0 0
+0 17 stone 0 0
+1 17 stone 0 0
+2 17 stone 0 0
+3 17 stone 0 0
+4 17 stone 0 0
+5 17 stone 0 0
+13 17 stone 0 0
+14 17 stone 0 0
+15 17 stone 0 0
+16 17 stone 0 0
+17 17 stone 0 0
+36 17 stone 0 0
+37 17 stone 0 0
+38 17 stone 0 0
+39 17 stone 0 0
+40 17 stone 0 0
+41 17 stone 0 0
+42 17 stone 0 0
+43 17 stone 0 0
+44 17 stone 0 0
+45 17 stone 0 0
+57 17 stone 0 0
+58 17 stone 0 0
+59 17 stone 0 0
+60 17 stone 0 0
+61 17 stone 0 0
+62 17 stone 0 0
+63 17 stone 0 0
+64 17 stone 0 0
+65 17 stone 0 0
+93 17 stone 0 0
+94 17 stone 0 0
+95 17 stone 0 0
+96 17 stone 0 0
+97 17 stone 0 0
+98 17 stone 0 0
+99 17 stone 0 0
+100 17 stone 0 0
+0 18 stone 0 0
+1 18 stone 0 0
+2 18 stone 0 0
+3 18 stone 0 0
+4 18 stone 0 0
+5 18 stone 0 0
+6 18 stone 0 0
+12 18 stone 0 0
+13 18 stone 0 0
+14 18 stone 0 0
+15 18 stone 0 0
+16 18 stone 0 0
+17 18 stone 0 0
+18 18 stone 0 0
+36 18 stone 0 0
+37 18 stone 0 0
+38 18 stone 0 0
+39 18 stone 0 0
+40 18 stone 0 0
+41 18 stone 0 0
+42 18 stone 0 0
+43 18 stone 0 0
+44 18 stone 0 0
+57 18 stone 0 0
+58 18 stone 0 0
+59 18 stone 0 0
+60 18 stone 0 0
+61 18 stone 0 0
+62 18 stone 0 0
+63 18 stone 0 0
+64 18 stone 0 0
+65 18 stone 0 0
+66 18 stone 0 0
+67 18 stone 0 0
+94 18 stone 0 0
+95 18 stone 0 0
+96 18 stone 0 0
+97 18 stone 0 0
+98 18 stone 0 0
+99 18 stone 0 0
+100 18 stone 0 0
+0 19 stone 0 0
+1 19 stone 0 0
+2 19 stone 0 0
+3 19 stone 0 0
+4 19 stone 0 0
+5 19 stone 0 0
+6 19 stone 0 0
+7 19 stone 0 0
+12 19 stone 0 0
+13 19 stone 0 0
+14 19 stone 0 0
+15 19 stone 0 0
+16 19 stone 0 0
+17 19 stone 0 0
+18 19 stone 0 0
+37 19 stone 0 0
+38 19 stone 0 0
+39 19 stone 0 0
+40 19 stone 0 0
+41 19 stone 0 0
+56 19 stone 0 0
+57 19 stone 0 0
+58 19 stone 0 0
+59 19 stone 0 0
+60 19 stone 0 0
+61 19 stone 0 0
+62 19 stone 0 0
+63 19 stone 0 0
+64 19 stone 0 0
+65 19 stone 0 0
+66 19 stone 0 0
+67 19 stone 0 0
+68 19 stone 0 0
+69 19 stone 0 0
+97 19 stone 0 0
+98 19 stone 0 0
+99 19 stone 0 0
+100 19 stone 0 0
+0 20 stone 0 0
+1 20 stone 0 0
+2 20 stone 0 0
+3 20 stone 0 0
+4 20 stone 0 0
+5 20 stone 0 0
+6 20 stone 0 0
+7 20 stone 0 0
+8 20 stone 0 0
+13 20 stone 0 0
+14 20 stone 0 0
+15 20 stone 0 0
+16 20 stone 0 0
+17 20 stone 0 0
+18 20 stone 0 0
+38 20 stone 0 0
+39 20 stone 0 0
+40 20 stone 0 0
+55 20 stone 0 0
+56 20 stone 0 0
+57 20 stone 0 0
+58 20 stone 0 0
+59 20 stone 0 0
+60 20 stone 0 0
+61 20 stone 0 0
+62 20 stone 0 0
+63 20 stone 0 0
+64 20 stone 0 0
+65 20 stone 0 0
+66 20 stone 0 0
+67 20 stone 0 0
+68 20 stone 0 0
+69 20 stone 0 0
+70 20 stone 0 0
+71 20 stone 0 0
+98 20 stone 0 0
+99 20 stone 0 0
+100 20 stone 0 0
+0 21 stone 0 0
+1 21 stone 0 0
+2 21 stone 0 0
+3 21 stone 0 0
+4 21 stone 0 0
+5 21 stone 0 0
+6 21 stone 0 0
+7 21 stone 0 0
+8 21 stone 0 0
+14 21 stone 0 0
+15 21 stone 0 0
+17 21 stone 0 0
+18 21 stone 0 0
+19 21 stone 0 0
+39 21 stone 0 0
+40 21 stone 0 0
+47 21 stone 0 0
+48 21 stone 0 0
+55 21 stone 0 0
+56 21 stone 0 0
+57 21 stone 0 0
+58 21 stone 0 0
+59 21 stone 0 0
+60 21 stone 0 0
+61 21 stone 0 0
+62 21 stone 0 0
+63 21 stone 0 0
+64 21 stone 0 0
+65 21 stone 0 0
+66 21 stone 0 0
+67 21 stone 0 0
+68 21 stone 0 0
+69 21 stone 0 0
+70 21 stone 0 0
+71 21 stone 0 0
+72 21 stone 0 0
+73 21 stone 0 0
+74 21 stone 0 0
+98 21 stone 0 0
+99 21 stone 0 0
+100 21 stone 0 0
+0 22 stone 0 0
+1 22 stone 0 0
+2 22 stone 0 0
+3 22 stone 0 0
+4 22 stone 0 0
+5 22 stone 0 0
+6 22 stone 0 0
+7 22 stone 0 0
+18 22 stone 0 0
+19 22 stone 0 0
+20 22 stone 0 0
+39 22 stone 0 0
+40 22 stone 0 0
+41 22 stone 0 0
+46 22 stone 0 0
+47 22 stone 0 0
+48 22 stone 0 0
+49 22 stone 0 0
+55 22 stone 0 0
+56 22 stone 0 0
+57 22 stone 0 0
+58 22 stone 0 0
+59 22 stone 0 0
+60 22 stone 0 0
+61 22 stone 0 0
+62 22 stone 0 0
+63 22 stone 0 0
+64 22 stone 0 0
+65 22 stone 0 0
+66 22 stone 0 0
+67 22 stone 0 0
+68 22 stone 0 0
+69 22 stone 0 0
+70 22 stone 0 0
+71 22 stone 0 0
+72 22 stone 0 0
+73 22 stone 0 0
+74 22 stone 0 0
+75 22 stone 0 0
+98 22 stone 0 0
+99 22 stone 0 0
+100 22 stone 0 0
+0 23 stone 0 0
+1 23 stone 0 0
+2 23 stone 0 0
+3 23 stone 0 0
+4 23 stone 0 0
+5 23 stone 0 0
+6 23 stone 0 0
+18 23 stone 0 0
+19 23 stone 0 0
+20 23 stone 0 0
+21 23 stone 0 0
+39 23 stone 0 0
+40 23 stone 0 0
+41 23 stone 0 0
+46 23 stone 0 0
+47 23 stone 0 0
+48 23 stone 0 0
+49 23 stone 0 0
+56 23 stone 0 0
+57 23 stone 0 0
+58 23 stone 0 0
+59 23 stone 0 0
+60 23 stone 0 0
+61 23 stone 0 0
+62 23 stone 0 0
+63 23 stone 0 0
+64 23 stone 0 0
+65 23 stone 0 0
+66 23 stone 0 0
+67 23 stone 0 0
+68 23 stone 0 0
+69 23 stone 0 0
+70 23 stone 0 0
+71 23 stone 0 0
+72 23 stone 0 0
+73 23 stone 0 0
+74 23 stone 0 0
+75 23 stone 0 0
+92 23 stone 0 0
+93 23 stone 0 0
+94 23 stone 0 0
+99 23 stone 0 0
+100 23 stone 0 0
+0 24 stone 0 0
+1 24 stone 0 0
+2 24 stone 0 0
+3 24 stone 0 0
+4 24 stone 0 0
+5 24 stone 0 0
+6 24 stone 0 0
+17 24 stone 0 0
+18 24 stone 0 0
+19 24 stone 0 0
+20 24 stone 0 0
+21 24 stone 0 0
+40 24 stone 0 0
+41 24 stone 0 0
+46 24 stone 0 0
+47 24 stone 0 0
+48 24 stone 0 0
+49 24 stone 0 0
+61 24 stone 0 0
+62 24 stone 0 0
+63 24 stone 0 0
+64 24 stone 0 0
+65 24 stone 0 0
+66 24 stone 0 0
+67 24 stone 0 0
+68 24 stone 0 0
+69 24 stone 0 0
+73 24 stone 0 0
+74 24 stone 0 0
+91 24 stone 0 0
+92 24 stone 0 0
+93 24 stone 0 0
+94 24 stone 0 0
+95 24 stone 0 0
+100 24 stone 0 0
+0 25 stone 0 0
+1 25 stone 0 0
+2 25 stone 0 0
+3 25 stone 0 0
+4 25 stone 0 0
+5 25 stone 0 0
+6 25 stone 0 0
+16 25 stone 0 0
+17 25 stone 0 0
+18 25 stone 0 0
+19 25 stone 0 0
+20 25 stone 0 0
+21 25 stone 0 0
+47 25 stone 0 0
+48 25 stone 0 0
+49 25 stone 0 0
+61 25 stone 0 0
+62 25 stone 0 0
+63 25 stone 0 0
+64 25 stone 0 0
+65 25 stone 0 0
+66 25 stone 0 0
+67 25 stone 0 0
+91 25 stone 0 0
+92 25 stone 0 0
+93 25 stone 0 0
+94 25 stone 0 0
+95 25 stone 0 0
+100 25 stone 0 0
+0 26 stone 0 0
+1 26 stone 0 0
+2 26 stone 0 0
+3 26 stone 0 0
+4 26 stone 0 0
+5 26 stone 0 0
+16 26 stone 0 0
+17 26 stone 0 0
+18 26 stone 0 0
+19 26 stone 0 0
+20 26 stone 0 0
+48 26 stone 0 0
+60 26 stone 0 0
+61 26 stone 0 0
+62 26 stone 0 0
+63 26 stone 0 0
+64 26 stone 0 0
+65 26 stone 0 0
+66 26 stone 0 0
+82 26 stone 0 0
+92 26 stone 0 0
+93 26 stone 0 0
+94 26 stone 0 0
+95 26 stone 0 0
+99 26 stone 0 0
+100 26 stone 0 0
+0 27 stone 0 0
+1 27 stone 0 0
+2 27 stone 0 0
+3 27 stone 0 0
+16 27 stone 0 0
+17 27 stone 0 0
+37 27 stone 0 0
+38 27 stone 0 0
+60 27 stone 0 0
+61 27 stone 0 0
+62 27 stone 0 0
+63 27 stone 0 0
+64 27 stone 0 0
+65 27 stone 0 0
+66 27 stone 0 0
+81 27 stone 0 0
+82 27 stone 0 0
+83 27 stone 0 0
+93 27 stone 0 0
+94 27 stone 0 0
+98 27 stone 0 0
+99 27 stone 0 0
+100 27 stone 0 0
+0 28 stone 0 0
+1 28 stone 0 0
+2 28 stone 0 0
+36 28 stone 0 0
+37 28 stone 0 0
+38 28 stone 0 0
+39 28 stone 0 0
+60 28 stone 0 0
+61 28 stone 0 0
+62 28 stone 0 0
+63 28 stone 0 0
+64 28 stone 0 0
+65 28 stone 0 0
+66 28 stone 0 0
+74 28 stone 0 0
+75 28 stone 0 0
+78 28 stone 0 0
+79 28 stone 0 0
+80 28 stone 0 0
+81 28 stone 0 0
+82 28 stone 0 0
+98 28 stone 0 0
+99 28 stone 0 0
+100 28 stone 0 0
+0 29 stone 0 0
+1 29 stone 0 0
+2 29 stone 0 0
+36 29 stone 0 0
+37 29 stone 0 0
+38 29 stone 0 0
+39 29 stone 0 0
+40 29 stone 0 0
+47 29 stone 0 0
+48 29 stone 0 0
+60 29 stone 0 0
+61 29 stone 0 0
+62 29 stone 0 0
+63 29 stone 0 0
+64 29 stone 0 0
+65 29 stone 0 0
+73 29 stone 0 0
+74 29 stone 0 0
+75 29 stone 0 0
+76 29 stone 0 0
+77 29 stone 0 0
+78 29 stone 0 0
+79 29 stone 0 0
+80 29 stone 0 0
+81 29 stone 0 0
+82 29 stone 0 0
+98 29 stone 0 0
+99 29 stone 0 0
+100 29 stone 0 0
+0 30 stone 0 0
+1 30 stone 0 0
+2 30 stone 0 0
+36 30 stone 0 0
+37 30 stone 0 0
+38 30 stone 0 0
+39 30 stone 0 0
+40 30 stone 0 0
+41 30 stone 0 0
+42 30 stone 0 0
+43 30 stone 0 0
+44 30 stone 0 0
+45 30 stone 0 0
+46 30 stone 0 0
+47 30 stone 0 0
+48 30 stone 0 0
+49 30 stone 0 0
+61 30 stone 0 0
+62 30 stone 0 0
+63 30 stone 0 0
+72 30 stone 0 0
+73 30 stone 0 0
+74 30 stone 0 0
+75 30 stone 0 0
+76 30 stone 0 0
+77 30 stone 0 0
+78 30 stone 0 0
+79 30 stone 0 0
+80 30 stone 0 0
+81 30 stone 0 0
+98 30 stone 0 0
+99 30 stone 0 0
+100 30 stone 0 0
+0 31 stone 0 0
+1 31 stone 0 0
+2 31 stone 0 0
+22 31 stone 0 0
+23 31 stone 0 0
+36 31 stone 0 0
+37 31 stone 0 0
+38 31 stone 0 0
+39 31 stone 0 0
+40 31 stone 0 0
+41 31 stone 0 0
+42 31 stone 0 0
+43 31 stone 0 0
+44 31 stone 0 0
+45 31 stone 0 0
+46 31 stone 0 0
+47 31 stone 0 0
+48 31 stone 0 0
+71 31 stone 0 0
+72 31 stone 0 0
+73 31 stone 0 0
+74 31 stone 0 0
+75 31 stone 0 0
+76 31 stone 0 0
+77 31 stone 0 0
+78 31 stone 0 0
+79 31 stone 0 0
+98 31 stone 0 0
+99 31 stone 0 0
+100 31 stone 0 0
+0 32 stone 0 0
+1 32 stone 0 0
+2 32 stone 0 0
+22 32 stone 0 0
+23 32 stone 0 0
+36 32 stone 0 0
+37 32 stone 0 0
+38 32 stone 0 0
+39 32 stone 0 0
+40 32 stone 0 0
+42 32 stone 0 0
+43 32 stone 0 0
+44 32 stone 0 0
+45 32 stone 0 0
+46 32 stone 0 0
+47 32 stone 0 0
+71 32 stone 0 0
+72 32 stone 0 0
+73 32 stone 0 0
+74 32 stone 0 0
+75 32 stone 0 0
+76 32 stone 0 0
+77 32 stone 0 0
+78 32 stone 0 0
+98 32 stone 0 0
+99 32 stone 0 0
+100 32 stone 0 0
+0 33 stone 0 0
+1 33 stone 0 0
+2 33 stone 0 0
+21 33 stone 0 0
+22 33 stone 0 0
+23 33 stone 0 0
+30 33 stone 0 0
+31 33 stone 0 0
+36 33 stone 0 0
+37 33 stone 0 0
+38 33 stone 0 0
+39 33 stone 0 0
+43 33 stone 0 0
+44 33 stone 0 0
+45 33 stone 0 0
+46 33 stone 0 0
+63 33 stone 0 0
+72 33 stone 0 0
+73 33 stone 0 0
+98 33 stone 0 0
+99 33 stone 0 0
+100 33 stone 0 0
+0 34 stone 0 0
+1 34 stone 0 0
+2 34 stone 0 0
+21 34 stone 0 0
+22 34 stone 0 0
+23 34 stone 0 0
+29 34 stone 0 0
+30 34 stone 0 0
+31 34 stone 0 0
+32 34 stone 0 0
+37 34 stone 0 0
+38 34 stone 0 0
+43 34 stone 0 0
+44 34 stone 0 0
+45 34 stone 0 0
+46 34 stone 0 0
+61 34 stone 0 0
+62 34 stone 0 0
+63 34 stone 0 0
+64 34 stone 0 0
+65 34 stone 0 0
+66 34 stone 0 0
+98 34 stone 0 0
+99 34 stone 0 0
+100 34 stone 0 0
+0 35 stone 0 0
+1 35 stone 0 0
+21 35 stone 0 0
+22 35 stone 0 0
+29 35 stone 0 0
+30 35 stone 0 0
+31 35 stone 0 0
+32 35 stone 0 0
+43 35 stone 0 0
+44 35 stone 0 0
+45 35 stone 0 0
+49 35 stone 0 0
+50 35 stone 0 0
+51 35 stone 0 0
+61 35 stone 0 0
+62 35 stone 0 0
+63 35 stone 0 0
+64 35 stone 0 0
+65 35 stone 0 0
+66 35 stone 0 0
+67 35 stone 0 0
+91 35 stone 0 0
+92 35 stone 0 0
+98 35 stone 0 0
+99 35 stone 0 0
+100 35 stone 0 0
+0 36 stone 0 0
+1 36 stone 0 0
+20 36 stone 0 0
+21 36 stone 0 0
+22 36 stone 0 0
+30 36 stone 0 0
+31 36 stone 0 0
+42 36 stone 0 0
+43 36 stone 0 0
+44 36 stone 0 0
+48 36 stone 0 0
+49 36 stone 0 0
+50 36 stone 0 0
+51 36 stone 0 0
+61 36 stone 0 0
+62 36 stone 0 0
+63 36 stone 0 0
+64 36 stone 0 0
+65 36 stone 0 0
+66 36 stone 0 0
+67 36 stone 0 0
+90 36 stone 0 0
+91 36 stone 0 0
+92 36 stone 0 0
+93 36 stone 0 0
+97 36 stone 0 0
+98 36 stone 0 0
+99 36 stone 0 0
+100 36 stone 0 0
+0 37 stone 0 0
+1 37 stone 0 0
+20 37 stone 0 0
+21 37 stone 0 0
+22 37 stone 0 0
+23 37 stone 0 0
+42 37 stone 0 0
+43 37 stone 0 0
+44 37 stone 0 0
+48 37 stone 0 0
+49 37 stone 0 0
+50 37 stone 0 0
+51 37 stone 0 0
+61 37 stone 0 0
+62 37 stone 0 0
+63 37 stone 0 0
+64 37 stone 0 0
+65 37 stone 0 0
+66 37 stone 0 0
+89 37 stone 0 0
+90 37 stone 0 0
+91 37 stone 0 0
+92 37 stone 0 0
+93 37 stone 0 0
+96 37 stone 0 0
+97 37 stone 0 0
+98 37 stone 0 0
+99 37 stone 0 0
+100 37 stone 0 0
+0 38 stone 0 0
+1 38 stone 0 0
+6 38 stone 0 0
+7 38 stone 0 0
+21 38 stone 0 0
+22 38 stone 0 0
+23 38 stone 0 0
+24 38 stone 0 0
+43 38 stone 0 0
+48 38 stone 0 0
+49 38 stone 0 0
+50 38 stone 0 0
+60 38 stone 0 0
+61 38 stone 0 0
+62 38 stone 0 0
+63 38 stone 0 0
+64 38 stone 0 0
+65 38 stone 0 0
+89 38 stone 0 0
+90 38 stone 0 0
+91 38 stone 0 0
+92 38 stone 0 0
+93 38 stone 0 0
+95 38 stone 0 0
+96 38 stone 0 0
+97 38 stone 0 0
+98 38 stone 0 0
+99 38 stone 0 0
+100 38 stone 0 0
+0 39 stone 0 0
+1 39 stone 0 0
+5 39 stone 0 0
+6 39 stone 0 0
+7 39 stone 0 0
+8 39 stone 0 0
+22 39 stone 0 0
+23 39 stone 0 0
+24 39 stone 0 0
+25 39 stone 0 0
+47 39 stone 0 0
+48 39 stone 0 0
+49 39 stone 0 0
+50 39 stone 0 0
+59 39 stone 0 0
+60 39 stone 0 0
+61 39 stone 0 0
+62 39 stone 0 0
+88 39 stone 0 0
+89 39 stone 0 0
+90 39 stone 0 0
+91 39 stone 0 0
+92 39 stone 0 0
+95 39 stone 0 0
+96 39 stone 0 0
+97 39 stone 0 0
+98 39 stone 0 0
+99 39 stone 0 0
+100 39 stone 0 0
+0 40 stone 0 0
+1 40 stone 0 0
+2 40 stone 0 0
+5 40 stone 0 0
+6 40 stone 0 0
+7 40 stone 0 0
+8 40 stone 0 0
+9 40 stone 0 0
+23 40 stone 0 0
+24 40 stone 0 0
+25 40 stone 0 0
+46 40 stone 0 0
+47 40 stone 0 0
+48 40 stone 0 0
+49 40 stone 0 0
+50 40 stone 0 0
+51 40 stone 0 0
+59 40 stone 0 0
+60 40 stone 0 0
+61 40 stone 0 0
+87 40 stone 0 0
+88 40 stone 0 0
+89 40 stone 0 0
+90 40 stone 0 0
+91 40 stone 0 0
+96 40 stone 0 0
+97 40 stone 0 0
+98 40 stone 0 0
+99 40 stone 0 0
+100 40 stone 0 0
+0 41 stone 0 0
+1 41 stone 0 0
+2 41 stone 0 0
+3 41 stone 0 0
+6 41 stone 0 0
+7 41 stone 0 0
+8 41 stone 0 0
+9 41 stone 0 0
+10 41 stone 0 0
+11 41 stone 0 0
+12 41 stone 0 0
+23 41 stone 0 0
+24 41 stone 0 0
+25 41 stone 0 0
+26 41 stone 0 0
+29 41 stone 0 0
+30 41 stone 0 0
+45 41 stone 0 0
+46 41 stone 0 0
+47 41 stone 0 0
+48 41 stone 0 0
+49 41 stone 0 0
+50 41 stone 0 0
+51 41 stone 0 0
+59 41 stone 0 0
+60 41 stone 0 0
+61 41 stone 0 0
+87 41 stone 0 0
+88 41 stone 0 0
+89 41 stone 0 0
+90 41 stone 0 0
+91 41 stone 0 0
+99 41 stone 0 0
+100 41 stone 0 0
+0 42 stone 0 0
+1 42 stone 0 0
+2 42 stone 0 0
+3 42 stone 0 0
+9 42 stone 0 0
+10 42 stone 0 0
+11 42 stone 0 0
+12 42 stone 0 0
+13 42 stone 0 0
+24 42 stone 0 0
+25 42 stone 0 0
+26 42 stone 0 0
+27 42 stone 0 0
+28 42 stone 0 0
+29 42 stone 0 0
+30 42 stone 0 0
+31 42 stone 0 0
+45 42 stone 0 0
+46 42 stone 0 0
+47 42 stone 0 0
+48 42 stone 0 0
+49 42 stone 0 0
+50 42 stone 0 0
+60 42 stone 0 0
+65 42 stone 0 0
+66 42 stone 0 0
+78 42 stone 0 0
+79 42 stone 0 0
+80 42 stone 0 0
+89 42 stone 0 0
+90 42 stone 0 0
+99 42 stone 0 0
+100 42 stone 0 0
+0 43 stone 0 0
+1 43 stone 0 0
+2 43 stone 0 0
+3 43 stone 0 0
+10 43 stone 0 0
+11 43 stone 0 0
+12 43 stone 0 0
+13 43 stone 0 0
+24 43 stone 0 0
+25 43 stone 0 0
+26 43 stone 0 0
+27 43 stone 0 0
+28 43 stone 0 0
+29 43 stone 0 0
+30 43 stone 0 0
+31 43 stone 0 0
+32 43 stone 0 0
+46 43 stone 0 0
+47 43 stone 0 0
+64 43 stone 0 0
+65 43 stone 0 0
+66 43 stone 0 0
+67 43 stone 0 0
+75 43 stone 0 0
+76 43 stone 0 0
+77 43 stone 0 0
+78 43 stone 0 0
+79 43 stone 0 0
+80 43 stone 0 0
+81 43 stone 0 0
+99 43 stone 0 0
+100 43 stone 0 0
+0 44 stone 0 0
+1 44 stone 0 0
+2 44 stone 0 0
+11 44 stone 0 0
+12 44 stone 0 0
+13 44 stone 0 0
+14 44 stone 0 0
+23 44 stone 0 0
+24 44 stone 0 0
+25 44 stone 0 0
+26 44 stone 0 0
+27 44 stone 0 0
+28 44 stone 0 0
+29 44 stone 0 0
+30 44 stone 0 0
+31 44 stone 0 0
+32 44 stone 0 0
+33 44 stone 0 0
+64 44 stone 0 0
+65 44 stone 0 0
+66 44 stone 0 0
+67 44 stone 0 0
+68 44 stone 0 0
+73 44 stone 0 0
+74 44 stone 0 0
+75 44 stone 0 0
+76 44 stone 0 0
+77 44 stone 0 0
+78 44 stone 0 0
+79 44 stone 0 0
+80 44 stone 0 0
+81 44 stone 0 0
+99 44 stone 0 0
+100 44 stone 0 0
+0 45 stone 0 0
+1 45 stone 0 0
+2 45 stone 0 0
+11 45 stone 0 0
+12 45 stone 0 0
+13 45 stone 0 0
+14 45 stone 0 0
+23 45 stone 0 0
+24 45 stone 0 0
+25 45 stone 0 0
+26 45 stone 0 0
+27 45 stone 0 0
+28 45 stone 0 0
+29 45 stone 0 0
+30 45 stone 0 0
+31 45 stone 0 0
+32 45 stone 0 0
+33 45 stone 0 0
+34 45 stone 0 0
+65 45 stone 0 0
+66 45 stone 0 0
+67 45 stone 0 0
+68 45 stone 0 0
+72 45 stone 0 0
+73 45 stone 0 0
+74 45 stone 0 0
+75 45 stone 0 0
+76 45 stone 0 0
+77 45 stone 0 0
+78 45 stone 0 0
+79 45 stone 0 0
+80 45 stone 0 0
+99 45 stone 0 0
+100 45 stone 0 0
+0 46 stone 0 0
+1 46 stone 0 0
+2 46 stone 0 0
+11 46 stone 0 0
+12 46 stone 0 0
+13 46 stone 0 0
+14 46 stone 0 0
+15 46 stone 0 0
+22 46 stone 0 0
+23 46 stone 0 0
+24 46 stone 0 0
+25 46 stone 0 0
+26 46 stone 0 0
+27 46 stone 0 0
+28 46 stone 0 0
+29 46 stone 0 0
+30 46 stone 0 0
+31 46 stone 0 0
+32 46 stone 0 0
+33 46 stone 0 0
+34 46 stone 0 0
+35 46 stone 0 0
+66 46 stone 0 0
+67 46 stone 0 0
+68 46 stone 0 0
+72 46 stone 0 0
+73 46 stone 0 0
+74 46 stone 0 0
+75 46 stone 0 0
+99 46 stone 0 0
+100 46 stone 0 0
+0 47 stone 0 0
+1 47 stone 0 0
+2 47 stone 0 0
+3 47 stone 0 0
+10 47 stone 0 0
+11 47 stone 0 0
+12 47 stone 0 0
+13 47 stone 0 0
+14 47 stone 0 0
+15 47 stone 0 0
+21 47 stone 0 0
+22 47 stone 0 0
+23 47 stone 0 0
+24 47 stone 0 0
+25 47 stone 0 0
+26 47 stone 0 0
+27 47 stone 0 0
+28 47 stone 0 0
+29 47 stone 0 0
+30 47 stone 0 0
+31 47 stone 0 0
+32 47 stone 0 0
+33 47 stone 0 0
+34 47 stone 0 0
+35 47 stone 0 0
+66 47 stone 0 0
+67 47 stone 0 0
+68 47 stone 0 0
+72 47 stone 0 0
+73 47 stone 0 0
+74 47 stone 0 0
+75 47 stone 0 0
+99 47 stone 0 0
+100 47 stone 0 0
+0 48 stone 0 0
+1 48 stone 0 0
+2 48 stone 0 0
+3 48 stone 0 0
+4 48 stone 0 0
+5 48 stone 0 0
+6 48 stone 0 0
+9 48 stone 0 0
+10 48 stone 0 0
+11 48 stone 0 0
+12 48 stone 0 0
+13 48 stone 0 0
+14 48 stone 0 0
+15 48 stone 0 0
+16 48 stone 0 0
+20 48 stone 0 0
+21 48 stone 0 0
+22 48 stone 0 0
+23 48 stone 0 0
+24 48 stone 0 0
+25 48 stone 0 0
+26 48 stone 0 0
+27 48 stone 0 0
+28 48 stone 0 0
+29 48 stone 0 0
+30 48 stone 0 0
+31 48 stone 0 0
+32 48 stone 0 0
+33 48 stone 0 0
+34 48 stone 0 0
+35 48 stone 0 0
+36 48 stone 0 0
+45 48 stone 0 0
+46 48 stone 0 0
+54 48 stone 0 0
+55 48 stone 0 0
+59 48 stone 0 0
+60 48 stone 0 0
+61 48 stone 0 0
+62 48 stone 0 0
+65 48 stone 0 0
+66 48 stone 0 0
+67 48 stone 0 0
+68 48 stone 0 0
+69 48 stone 0 0
+71 48 stone 0 0
+72 48 stone 0 0
+73 48 stone 0 0
+74 48 stone 0 0
+75 48 stone 0 0
+76 48 stone 0 0
+88 48 stone 0 0
+89 48 stone 0 0
+90 48 stone 0 0
+91 48 stone 0 0
+92 48 stone 0 0
+93 48 stone 0 0
+94 48 stone 0 0
+98 48 stone 0 0
+99 48 stone 0 0
+100 48 stone 0 0
+0 49 stone 0 0
+1 49 stone 0 0
+2 49 stone 0 0
+3 49 stone 0 0
+4 49 stone 0 0
+5 49 stone 0 0
+6 49 stone 0 0
+7 49 stone 0 0
+8 49 stone 0 0
+9 49 stone 0 0
+10 49 stone 0 0
+11 49 stone 0 0
+12 49 stone 0 0
+13 49 stone 0 0
+14 49 stone 0 0
+15 49 stone 0 0
+16 49 stone 0 0
+17 49 stone 0 0
+18 49 stone 0 0
+19 49 stone 0 0
+20 49 stone 0 0
+21 49 stone 0 0
+22 49 stone 0 0
+23 49 stone 0 0
+24 49 stone 0 0
+25 49 stone 0 0
+26 49 stone 0 0
+27 49 stone 0 0
+28 49 stone 0 0
+29 49 stone 0 0
+30 49 stone 0 0
+31 49 stone 0 0
+32 49 stone 0 0
+33 49 stone 0 0
+34 49 stone 0 0
+35 49 stone 0 0
+36 49 stone 0 0
+37 49 stone 0 0
+40 49 stone 0 0
+41 49 stone 0 0
+42 49 stone 0 0
+43 49 stone 0 0
+44 49 stone 0 0
+45 49 stone 0 0
+46 49 stone 0 0
+47 49 stone 0 0
+48 49 stone 0 0
+49 49 stone 0 0
+50 49 stone 0 0
+51 49 stone 0 0
+52 49 stone 0 0
+53 49 stone 0 0
+54 49 stone 0 0
+55 49 stone 0 0
+56 49 stone 0 0
+57 49 stone 0 0
+58 49 stone 0 0
+59 49 stone 0 0
+60 49 stone 0 0
+61 49 stone 0 0
+62 49 stone 0 0
+63 49 stone 0 0
+64 49 stone 0 0
+65 49 stone 0 0
+66 49 stone 0 0
+67 49 stone 0 0
+68 49 stone 0 0
+69 49 stone 0 0
+70 49 stone 0 0
+71 49 stone 0 0
+72 49 stone 0 0
+73 49 stone 0 0
+74 49 stone 0 0
+75 49 stone 0 0
+76 49 stone 0 0
+77 49 stone 0 0
+78 49 stone 0 0
+79 49 stone 0 0
+80 49 stone 0 0
+81 49 stone 0 0
+82 49 stone 0 0
+83 49 stone 0 0
+84 49 stone 0 0
+85 49 stone 0 0
+86 49 stone 0 0
+87 49 stone 0 0
+88 49 stone 0 0
+89 49 stone 0 0
+90 49 stone 0 0
+91 49 stone 0 0
+92 49 stone 0 0
+93 49 stone 0 0
+94 49 stone 0 0
+95 49 stone 0 0
+96 49 stone 0 0
+97 49 stone 0 0
+98 49 stone 0 0
+99 49 stone 0 0
+100 49 stone 0 0
+0 50 stone 0 0
+1 50 stone 0 0
+2 50 stone 0 0
+3 50 stone 0 0
+4 50 stone 0 0
+5 50 stone 0 0
+6 50 stone 0 0
+7 50 stone 0 0
+8 50 stone 0 0
+9 50 stone 0 0
+10 50 stone 0 0
+11 50 stone 0 0
+12 50 stone 0 0
+13 50 stone 0 0
+14 50 stone 0 0
+15 50 stone 0 0
+16 50 stone 0 0
+17 50 stone 0 0
+18 50 stone 0 0
+19 50 stone 0 0
+20 50 stone 0 0
+21 50 stone 0 0
+22 50 stone 0 0
+23 50 stone 0 0
+24 50 stone 0 0
+25 50 stone 0 0
+26 50 stone 0 0
+27 50 stone 0 0
+28 50 stone 0 0
+29 50 stone 0 0
+30 50 stone 0 0
+31 50 stone 0 0
+32 50 stone 0 0
+33 50 stone 0 0
+34 50 stone 0 0
+35 50 stone 0 0
+36 50 stone 0 0
+37 50 stone 0 0
+38 50 stone 0 0
+39 50 stone 0 0
+40 50 stone 0 0
+41 50 stone 0 0
+42 50 stone 0 0
+43 50 stone 0 0
+44 50 stone 0 0
+45 50 stone 0 0
+46 50 stone 0 0
+47 50 stone 0 0
+48 50 stone 0 0
+49 50 stone 0 0
+50 50 stone 0 0
+51 50 stone 0 0
+52 50 stone 0 0
+53 50 stone 0 0
+54 50 stone 0 0
+55 50 stone 0 0
+56 50 stone 0 0
+57 50 stone 0 0
+58 50 stone 0 0
+59 50 stone 0 0
+60 50 stone 0 0
+61 50 stone 0 0
+62 50 stone 0 0
+63 50 stone 0 0
+64 50 stone 0 0
+65 50 stone 0 0
+66 50 stone 0 0
+67 50 stone 0 0
+68 50 stone 0 0
+69 50 stone 0 0
+70 50 stone 0 0
+71 50 stone 0 0
+72 50 stone 0 0
+73 50 stone 0 0
+74 50 stone 0 0
+75 50 stone 0 0
+76 50 stone 0 0
+77 50 stone 0 0
+78 50 stone 0 0
+79 50 stone 0 0
+80 50 stone 0 0
+81 50 stone 0 0
+82 50 stone 0 0
+83 50 stone 0 0
+84 50 stone 0 0
+85 50 stone 0 0
+86 50 stone 0 0
+87 50 stone 0 0
+88 50 stone 0 0
+89 50 stone 0 0
+90 50 stone 0 0
+91 50 stone 0 0
+92 50 stone 0 0
+93 50 stone 0 0
+94 50 stone 0 0
+95 50 stone 0 0
+96 50 stone 0 0
+97 50 stone 0 0
+98 50 stone 0 0
+99 50 stone 0 0
+100 50 stone 0 0
+
+0
+
+0
+
+dirt
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+86
+18 9 small
+34 40 small
+31 13 small
+51 17 small
+4 43 small
+46 29 small
+36 10 small
+81 21 small
+70 45 small
+75 20 small
+70 42 small
+73 41 small
+32 29 small
+79 48 small
+96 32 small
+61 13 small
+8 45 small
+23 2 small
+88 44 small
+84 23 small
+19 39 small
+64 30 small
+90 21 small
+84 7 small
+7 28 small
+8 34 small
+82 8 small
+88 26 small
+57 2 small
+52 8 small
+97 33 small
+28 30 small
+84 47 small
+80 24 small
+87 30 small
+68 30 small
+68 12 small
+57 46 small
+75 35 small
+84 40 small
+96 6 small
+41 27 small
+31 30 small
+29 30 small
+48 17 small
+85 33 small
+5 15 small
+76 15 small
+71 37 small
+42 46 small
+53 35 small
+69 11 small
+53 29 small
+87 33 small
+26 28 small
+48 45 small
+67 30 small
+36 12 small
+50 31 small
+84 29 small
+26 12 small
+9 32 small
+29 24 small
+93 41 small
+85 46 small
+90 31 small
+35 7 small
+74 5 small
+42 45 small
+55 30 small
+44 48 small
+57 15 small
+25 9 small
+10 34 small
+76 36 small
+4 33 small
+37 5 small
+15 45 small
+70 31 small
+8 23 small
+20 28 small
+82 30 small
+52 32 small
+60 34 small
+85 8 small
+29 23 small
+
+13
+61 45 small
+80 10 small
+55 34 small
+82 22 small
+7 47 small
+94 41 small
+76 34 small
+32 23 small
+19 19 small
+36 8 small
+22 12 small
+33 19 small
+55 23 small
+
+59
+47 46 small
+52 35 small
+98 26 small
+51 10 small
+5 44 small
+52 29 small
+32 20 small
+67 42 small
+77 28 small
+70 41 small
+59 12 small
+37 35 small
+45 6 small
+90 24 small
+51 43 small
+97 35 small
+41 47 small
+93 39 small
+57 43 small
+96 26 small
+28 36 small
+9 35 small
+53 43 small
+93 45 small
+24 35 small
+34 22 small
+19 10 small
+15 33 small
+77 13 small
+55 25 small
+20 45 small
+84 11 small
+27 37 small
+80 16 small
+38 47 small
+46 4 small
+24 21 small
+28 21 small
+34 30 small
+27 10 small
+72 44 small
+50 25 small
+63 7 small
+36 36 small
+13 21 small
+92 31 small
+80 15 small
+42 27 small
+50 22 small
+83 44 small
+84 22 small
+45 46 small
+66 40 small
+9 23 small
+7 43 small
+27 8 small
+90 35 small
+16 12 small
+33 16 small
+
+71
+41 45 small
+78 19 small
+88 23 small
+37 26 small
+22 16 small
+93 21 small
+60 4 small
+8 26 small
+40 46 small
+36 13 small
+65 14 small
+26 25 small
+22 14 small
+25 11 small
+87 15 small
+22 21 small
+35 27 small
+84 8 small
+63 31 small
+34 10 small
+94 13 small
+3 28 small
+92 15 small
+22 23 small
+55 42 small
+22 20 small
+22 15 small
+94 45 small
+73 43 small
+41 39 small
+54 9 small
+23 12 small
+83 46 small
+86 35 small
+67 28 small
+96 31 small
+71 36 small
+59 30 small
+74 41 small
+39 7 small
+4 45 small
+86 27 small
+33 33 small
+51 9 small
+89 23 small
+36 21 small
+98 42 small
+69 32 small
+67 26 small
+59 37 small
+83 12 small
+46 26 small
+50 16 small
+37 38 small
+79 24 small
+99 25 small
+91 5 small
+86 23 small
+89 9 small
+34 31 small
+69 34 small
+3 13 small
+85 23 small
+40 7 small
+56 5 small
+41 34 small
+57 14 small
+35 21 small
+79 32 small
+61 7 small
+56 15 small
+
+28
+68 32 small
+46 6 small
+30 26 small
+86 43 small
+95 22 small
+37 43 small
+90 14 small
+37 11 small
+8 43 small
+49 47 small
+66 30 small
+70 4 small
+76 5 small
+72 40 small
+13 31 small
+76 28 small
+45 22 small
+49 27 small
+15 14 small
+95 30 small
+21 4 small
+12 25 small
+8 32 small
+78 12 small
+60 12 small
+38 44 small
+99 24 small
+47 38 small
+
+56
+63 42 small
+26 36 small
+69 5 small
+26 11 small
+33 40 small
+18 33 small
+11 18 small
+49 21 small
+93 47 small
+39 47 small
+93 30 small
+81 36 small
+6 14 small
+33 42 small
+28 20 small
+50 47 small
+97 5 small
+6 36 small
+92 14 small
+27 34 small
+93 18 small
+41 48 small
+49 26 small
+18 8 small
+60 24 small
+93 14 small
+6 17 small
+35 25 small
+11 37 small
+39 12 small
+71 9 small
+21 16 small
+56 16 small
+56 33 small
+55 45 small
+72 20 small
+78 47 small
+93 11 small
+94 46 small
+45 23 small
+18 31 small
+73 4 small
+48 10 small
+22 41 small
+85 47 small
+7 34 small
+39 3 small
+96 21 small
+50 8 small
+21 21 small
+94 40 small
+15 24 small
+69 29 small
+39 44 small
+23 26 small
+32 12 small
+
+// The following map was proceduraly generated and exported
+// By map generation software made by Icebox: https://github.com/akys200
+//
+// MAP SEED       : 2051075218
+// GENERATED      : 2018-05-13 19:06:05
+// CELL_BIRTH     : 4
+// CELL_DEATH     : 4
+// INIT_CELL      : 0.45
+// SIMULATIONS    : 5
+// ROOMIFY CALLED : True
+// HOLE REMOVAL   : True
+// COLUMN REMOVAL : 5
